@@ -1,2 +1,2 @@
-# ML_Abhigyan-Deka
+# ML - Abhigyan Deka
 Machine Learning Lab-Class Work
