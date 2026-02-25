@@ -1,2 +1,2 @@
 # Lab Class Work - 
-  Working & Understanding Bivariate-Analysis. 
+ Working & Understanding Bivariate-Analysis. 
