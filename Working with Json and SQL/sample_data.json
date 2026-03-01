@@ -1,0 +1,58 @@
+[
+  {
+    "order_id": 5001,
+    "category": "electronics",
+    "items": [
+      "wireless mouse",
+      "mechanical keyboard",
+      "USB-C hub"
+    ],
+    "price": 89.99,
+    "rating": 4.5
+  },
+  {
+    "order_id": 5002,
+    "category": "books",
+    "items": [
+      "data structures guide",
+      "machine learning basics",
+      "python crash course"
+    ],
+    "price": 45.50,
+    "rating": 4.8
+  },
+  {
+    "order_id": 5003,
+    "category": "fashion",
+    "items": [
+      "denim jacket",
+      "white sneakers",
+      "graphic t-shirt"
+    ],
+    "price": 120.00,
+    "rating": 4.2
+  },
+  {
+    "order_id": 5004,
+    "category": "groceries",
+    "items": [
+      "brown rice",
+      "almonds",
+      "olive oil",
+      "green tea"
+    ],
+    "price": 35.75,
+    "rating": 4.6
+  },
+  {
+    "order_id": 5005,
+    "category": "fitness",
+    "items": [
+      "yoga mat",
+      "resistance bands",
+      "protein shaker"
+    ],
+    "price": 60.40,
+    "rating": 4.4
+  }
+]
